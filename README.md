@@ -26,7 +26,7 @@ Covers **Phase 1 to Phase 5** (July–November 2025)
 * Halloween festives and themed assets
 * Final update before 3.0 launch
 
-📄 View full file: [`After Launch Roadmap.md`](./after_launch_roadmap_github.md)
+📄 View full file: [`After Launch Roadmap.md`](./roadmappt2.md)
 
 ---
 
