@@ -8,6 +8,7 @@ Welcome to the official GitHub for our FiveM roleplay server development! This r
 
 This repo includes:
 
+* ✅ **Version 1.0 to 2.0 Pre-Launch Roadmap** (Planning + Launch Timeline)
 * ✅ **Version 2.0 After Launch Roadmap** (July–November)
 * 🔮 **Version 3.0 Roadmap** (Launching November 15, 2025)
 * 🎨 **Visual Timeline** for 3.0
@@ -16,6 +17,19 @@ This repo includes:
 ---
 
 ## 🛣️ Roadmap Overview
+
+### 🧱 Roadmap Part 1: Pre-Launch Plan
+
+Covers server development prior to Version 2.0:
+
+* Infrastructure setup
+* Script integration and system testing
+* Core roleplay design
+* Community testing phases
+
+📄 View full file: [`Pre-Launch Roadmap.md`](./roadmap.md)
+
+---
 
 ### 🔧 Roadmap Part 2: After Launch – Version 2.0
 
@@ -41,7 +55,7 @@ Launching **November 15, 2025** — a completely fresh experience:
 * 🧍‍♂️ Civilian job and business expansions
 * 📝 Whitelisted access with legacy player priority
 
-📄 View full file: [`Part 3 Roadmap.md`](./part_3_roadmap.md)
+📄 View full file: [`Part 3 Roadmap.md`](./roadmappt3.md)
 
 ---
 
@@ -49,7 +63,7 @@ Launching **November 15, 2025** — a completely fresh experience:
 
 For a quick visual overview of our 3.0 rollout:
 
-🔗 [Click here to view the roadmap graphic](./version3_roadmap_graphic.html)
+🔗 [Click here to view the roadmap graphic](./3.0_graphic.html)
 
 > This file is best viewed through GitHub Pages or locally in a browser.
 
