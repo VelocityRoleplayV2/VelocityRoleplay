@@ -27,7 +27,7 @@ Covers server development prior to Version 2.0:
 * Core roleplay design
 * Community testing phases
 
-📄 View full file: [`Pre-Launch Roadmap.md`](./roadmap.md)
+📄 View full file: [`Pre-Launch Roadmap.md`](./Roadmap.md)
 
 ---
 
