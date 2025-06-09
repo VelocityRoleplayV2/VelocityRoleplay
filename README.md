@@ -11,6 +11,7 @@ This repo includes:
 * ✅ **Version 1.0 to 2.0 Pre-Launch Roadmap** (Planning + Launch Timeline)
 * ✅ **Version 2.0 After Launch Roadmap** (July–November)
 * 🔮 **Version 3.0 Roadmap** (Launching November 15, 2025)
+* 📘 **Version 3.0 Technical Development** (Full Feature Details)
 * 🎨 **Visual Timeline** for 3.0
 * 📁 Development notes, changelogs, and community milestones
 
@@ -59,6 +60,22 @@ Launching **November 15, 2025** — a completely fresh experience:
 
 ---
 
+### 📘 Roadmap Part 4: Full 3.0 Technical Development
+
+This section provides a deep dive into the technical foundation and key features of Version 3.0:
+
+* Emergency services revamp – with dynamic uniforms, new vest/radio/bodycam systems
+* Pursuit Mode for police vehicles and full MDT integration
+* Manual transmissions, tuner chip upgrades, and better braking physics
+* Fraud-capable banking and enhanced heists
+* Reworked fishing and civilian job systems
+* VRP custom framework – built on QBCore + QBox architecture
+* Northeast U.S. hosted hardware for low-latency experiences
+
+📄 View full file: [`Velocity RP 3.0 Roadmap.md`](./Velocity_RP_3_0_Roadmap.md)
+
+---
+
 ## 🖼️ Visual Timeline
 
 For a quick visual overview of our 3.0 rollout:
@@ -83,4 +100,4 @@ Want to submit a suggestion? Head to `#server-suggestions` in our Discord or ope
 
 **Thanks for supporting the project!**
 
-— The \Velocity Roleplay Development Team
+— The *Velocity Roleplay* Development Team
